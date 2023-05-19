@@ -16,7 +16,7 @@ My own Library for roblox!
 3. Inject
 4. Copy / Open that .lua file
 5. To create window: "local main = library:CreateWindow("Your text")"
-6. To create button with a function: "main:CreateButton("idk", function()
+6. To create button with a function: "main:CreateButton("Change me!", function()
                                         print("Button clicked!")
                                       end)"
 7. Execute
