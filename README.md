@@ -15,10 +15,15 @@ My own Library for roblox!
 2. Run Roblox and your execute
 3. Inject
 4. Copy / Open that .lua file
+5. To create:
+
 -- To create window: "local main, labelLib = library:CreateWindow("Change me!")"
+
 -- To create button with a function: "main:CreateButton("Change me!", function()
                                         print("Button clicked!")
                                       end)"
--- To add a Label: "labelLib:CreateLabel("Label")"
-7. Execute
-8. Done
+                                      
+-- To create a Label: "labelLib:CreateLabel("Label")"
+
+6. Execute
+7. Done
