@@ -4,7 +4,10 @@ My own Library for roblox!
 
 # **Contains**
 -- Customizable Window
+
 -- Buttons (all of them really just have it)
+
+-- Label (all of them really just have it)
 
 
 # **Extra**
