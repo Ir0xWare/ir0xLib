@@ -12,7 +12,7 @@ My own Library for roblox!
 
 # **How to use**
 1. Get the Lib from Release
-2. Run Roblox and your execute
+2. Run Roblox and your executor
 3. Inject
 4. Copy / Open that .lua file
 5. To create:
